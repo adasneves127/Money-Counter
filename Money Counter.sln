@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money Counter", "Money Counter\Money Counter.csproj", "{082FC70C-12D5-4543-ABFC-902851F104F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082FC70C-12D5-4543-ABFC-902851F104F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082FC70C-12D5-4543-ABFC-902851F104F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082FC70C-12D5-4543-ABFC-902851F104F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082FC70C-12D5-4543-ABFC-902851F104F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916A02BE-E63F-4445-B1DE-6768DD3CE759}
+	EndGlobalSection
+EndGlobal

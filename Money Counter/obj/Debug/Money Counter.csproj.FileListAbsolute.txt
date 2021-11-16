@@ -1,0 +1,7 @@
+C:\Users\adasn\source\repos\Money Counter\Money Counter\bin\Debug\Money Counter.exe.config
+C:\Users\adasn\source\repos\Money Counter\Money Counter\bin\Debug\Money Counter.exe
+C:\Users\adasn\source\repos\Money Counter\Money Counter\bin\Debug\Money Counter.pdb
+C:\Users\adasn\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.csprojAssemblyReference.cache
+C:\Users\adasn\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.csproj.CoreCompileInputs.cache
+C:\Users\adasn\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.exe
+C:\Users\adasn\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.pdb
